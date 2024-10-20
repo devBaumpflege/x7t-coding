@@ -34,10 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/x7t-coding/x7t-coding/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/x7t-coding/count.svg?"  />
 </div>
